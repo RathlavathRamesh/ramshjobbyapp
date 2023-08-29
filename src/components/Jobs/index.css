@@ -1,0 +1,132 @@
+.jobsContainer {
+  padding: 15px;
+  background-color: #272727;
+}
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.jobFail {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+}
+.btnConat {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  height: 35vh;
+  width: 20vw;
+}
+* {
+  list-style-type: none;
+}
+.notjobs {
+  height: 60vh;
+}
+.nojobs {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+.profileName {
+  color: #4f46e5;
+  font-size: 20px;
+  margin-left: 3vh;
+}
+.radiobuttons {
+  margin-left: 3vh;
+  margin-top: 2vh;
+}
+.rtrybtn {
+  border-width: 0px;
+  border-radius: 5px;
+  height: 5vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  font-weight: 500;
+  background-color: blue;
+}
+.buttons {
+  margin: 1vh;
+}
+.empheading {
+  margin-left: 3vh;
+  margin-top: 4vh;
+  padding-top: 2hv;
+  font-size: 25px;
+  color: #ffffff;
+}
+.line {
+  margin-top: 2vh;
+  margin-left: 2vh;
+  width: 30vw;
+  color: #64748b;
+}
+.products-loader-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.avatar {
+  margin-left: 4vh;
+  margin-top: 4vh;
+  height: 8vh;
+}
+.profile {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  height: 35vh;
+  width: 20vw;
+  margin: 3vh;
+}
+.searchIcon {
+  display: flex;
+  margin-left: 15vh;
+  margin-top: 10vh;
+  padding: 0px;
+}
+.search-input-filed {
+  background-color: #272727;
+  border: solid 1px grey;
+  width: 22vw;
+  border: solid 3px #2c364c;
+  height: 6vh;
+  border-radius: 5px;
+  border-right-width: 0px;
+}
+.jobsCard {
+  display: flex;
+}
+.bio {
+  color: #64748b;
+  margin-left: 3vh;
+  margin-top: 2vh;
+}
+.serchbtn {
+  background-color: #272727;
+  border: solid 3px #2c364c;
+  border-width: 0px;
+  height: 6vh;
+  margin-left: 0px;
+}
+.search-icon {
+  background-color: #64748b;
+  border-width: 0px;
+  border: solid 3px #2c364c;
+  width: 2vw;
+  height: 6vh;
+  border-left-width: 0px;
+  margin-left: 0px;
+}
+.jobs {
+  margin-left: 5vh;
+}

@@ -1,0 +1,68 @@
+.jobItem {
+  padding: 10px;
+  border-radius: 10px;
+  list-style-type: none;
+  margin-left: 5vh;
+  margin-top: 5vh;
+  width: 60vw;
+  background-color: #2c364c;
+}
+.rate {
+  color: #ffffff;
+  margin-left: 1vh;
+  font-weight: 500;
+}
+.paradescp {
+  color: #f1f5f9;
+  margin-left: 2vh;
+  font-size: 22px;
+  margin-top: 2vh;
+}
+.Descriptionheading {
+  color: #ffffff;
+  font-size: 26px;
+  margin-left: 3vh;
+  margin-top: 2vh;
+}
+.location {
+  width: 4vw;
+  height: 5vh;
+  color: #ffffff;
+  margin-left: 1vh;
+  margin-top: 1vh;
+}
+.rating {
+  display: flex;
+  margin-left: 3vh;
+  margin-top: 2vh;
+}
+.salandlocation {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5vh;
+}
+.star {
+  color: yellow;
+  width: 3vh;
+}
+.logoandRole {
+  display: flex;
+  padding: 5px;
+}
+.companylogo {
+  margin-left: 2vh;
+  margin-top: 4vh;
+  height: 12vh;
+}
+.address {
+  color: #ffffff;
+  margin-left: 1vh;
+  margin-top: 1vh;
+  font-weight: 500;
+  font-size: 24px;
+}
+.lines {
+  color: #64748b;
+  font-weight: 500;
+  margin-top: 2vh;
+}

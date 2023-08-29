@@ -1,0 +1,60 @@
+.jobDetailsContianer {
+  background-color: black;
+  padding-top: 10vh;
+  padding: 5vh;
+}
+* {
+  margin: 0px;
+}
+.similarItems {
+  display: flex;
+  flex-wrap: wrap;
+}
+.jobData {
+  padding: 10px;
+  border-radius: 10px;
+  list-style-type: none;
+  margin-left: 5vh;
+  margin-top: 5vh;
+  margin-right: 10vh;
+  background-color: #202020;
+}
+.skillname {
+  color: #ffffff;
+  margin-top: 2vh;
+}
+.skills {
+  color: #ffffff;
+  margin-top: 3vh;
+  margin-left: 3vh;
+  font-size: 25px;
+}
+.visitContainer {
+  display: flex;
+  justify-content: space-between;
+}
+.imageCard {
+  display: flex;
+  padding: 15px;
+  margin: 8vh;
+}
+.skillImage {
+  height: 10vh;
+}
+.skillsCard {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 7vh;
+  margin-right: 7vh;
+}
+.companyImage {
+  height: 30vh;
+}
+.companyCard {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.similarJobsCard {
+  margin-left: 5vh;
+}
